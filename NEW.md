@@ -1,1 +1,1 @@
-I love hexlet!
+I love Hexlet!
